@@ -1,0 +1,12 @@
+streamlit
+torch
+datasets
+sentence-transformers
+transformers
+gtts
+tempfile
+os
+nltk
+rapidfuzz
+scikit-learn
+numpy
