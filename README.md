@@ -25,8 +25,8 @@ The **AI-Powered Health Assistant** is a chatbot designed to provide accurate an
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/AI-Medical-Chatbot.git
-   cd AI-Medical-Chatbot
+   git clone https://github.com/yourusername/AI_Chatbot.git
+   cd AI_Chatbot
    ```
 2. Install dependencies:
    ```bash
@@ -34,7 +34,7 @@ The **AI-Powered Health Assistant** is a chatbot designed to provide accurate an
    ```
 3. Run the chatbot:
    ```bash
-   streamlit run app.py
+   streamlit run AI_Chatbot.py
    ```
 
 ## Usage
