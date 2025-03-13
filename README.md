@@ -62,7 +62,7 @@ Contributions are welcome! Feel free to open an **issue** or submit a **pull req
 ## Author
 Developed by **Jovan Moris D**  
 📧 Contact: 10321jovanmoris@gmail.com
-🔗 GitHub: [[Your GitHub Profile]](https://github.com/dradigon)
+🔗 GitHub: [[GitHub Profile]](https://github.com/dradigon)
 
 ---
 Give this project a ⭐ if you find it useful! 🚀
